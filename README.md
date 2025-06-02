@@ -27,8 +27,8 @@ python scripts/inference.py --model_name meta-llama/Llama-3.3-70B-Instruct --gt_
 
 ### ⚙️ Arguments
 
-- --model_name: The Hugging Face model identifier.
-- --gt_file: Path to the prompt file (located in data/prompts).
+- ```--model_name```: The Hugging Face model identifier.
+- ```--gt_file```: Path to the prompt file (located in data/prompts).
 
 📌 If your prompt file requires CoT reasoning, add:
 
