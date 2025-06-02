@@ -1,0 +1,149 @@
+Unnamed: 0.2,Unnamed: 0.1,ISO3,GDP_pc_USD,GDP_pc_local,exchrate,Country Name,ISO2,Unnamed: 0,CurrencyISO,CurrencySymbol,prompt_currency,CurrencyName,Economy,Region,Income group,Lending category,Country_Local
+0,0,AFG,355.777826392648,31201.71537463517,87.69999999999983,Afghanistan,AF,44,AFN,Af,"Af (AFN, Afghan Afghani)",Afghan Afghani,Afghanistan,South Asia,Low income,IDA,افغانستان
+1,1,ALB,6375.79407748863,660167.1960169562,103.54274118542271,Albania,AL,45,ALL,ALL,"ALL (ALL, Albanian Lek)",Albanian Lek,Albania,Europe & Central Asia,Upper middle income,IBRD,Shqipëria
+2,2,AND,42072.3194231234,35566.97117696176,0.8453769999999993,Andorra,AD,15,EUR,€,"€ (EUR, Euro)",Euro,Andorra,Europe & Central Asia,High income,,Andorra
+3,3,ARE,44332.3400513163,162810.51883845922,3.6725000000000025,United Arab Emirates,AE,43,AED,AED,"AED (AED, United Arab Emirates Dirham)",United Arab Emirates Dirham,United Arab Emirates,Middle East & North Africa,High income,,الإمارات العربية المتحدة
+4,4,ARG,10519.3325377185,1022202.6454685952,97.17371722999997,Argentina,AR,47,ARS,AR$,"AR$ (ARS, Argentine Peso)",Argentine Peso,Argentina,Latin America & Caribbean,Upper middle income,IBRD,Argentina
+5,5,ARM,4685.17997128509,2360253.1141342907,503.77000000000027,Armenia,AM,46,AMD,AMD,"AMD (AMD, Armenian Dram)",Armenian Dram,Armenia,Europe & Central Asia,Upper middle income,IBRD,Հայաստան
+6,6,AUS,64531.6473695055,85906.07773782281,1.3312240000000033,Australia,AU,48,AUD,AU$,"AU$ (AUD, Australian Dollar)",Australian Dollar,Australia,East Asia & Pacific,High income,,Australia
+7,7,AUT,53541.6467898716,45270.69146010961,0.8455229559482546,Austria,AT,16,EUR,€,"€ (EUR, Euro)",Euro,Austria,Europe & Central Asia,High income,,Österreich
+8,8,AZE,5458.14707972716,9278.85003553617,1.6999999999999995,Azerbaijan,AZ,56,AZN,man.,"man. (AZN, Azerbaijani Manat)",Azerbaijani Manat,Azerbaijan,Europe & Central Asia,Upper middle income,IBRD,Azərbaycan
+9,9,BDI,302.670346784979,598061.7384996944,1975.950881387681,Burundi,BI,61,BIF,FBu,"FBu (BIF, Burundian Franc)",Burundian Franc,Burundi,Sub-Saharan Africa,Low income,IDA,Burundi
+10,10,BEL,51823.5595801591,43818.00928397654,0.8455229559482533,Belgium,BE,17,EUR,€,"€ (EUR, Euro)",Euro,Belgium,Europe & Central Asia,High income,,Belgique
+11,11,BEN,1361.10074906119,754772.1171649632,554.5306750331025,Benin,BJ,183,XOF,CFA,"CFA (XOF, CFA Franc BCEAO)",CFA Franc BCEAO,Benin,Sub-Saharan Africa,Lower middle income,IDA,Bénin
+12,12,BFA,923.431875595314,512071.30132095393,554.5306750331031,Burkina Faso,BF,184,XOF,CFA,"CFA (XOF, CFA Franc BCEAO)",CFA Franc BCEAO,Burkina Faso,Sub-Saharan Africa,Low income,IDA,Burkina Faso
+13,13,BGD,2588.80389842513,220307.2117559788,85.10000000000011,Bangladesh,BD,58,BDT,Tk,"Tk (BDT, Bangladeshi Taka)",Bangladeshi Taka,Bangladesh,South Asia,Lower middle income,IDA,বাংলাদেশ
+14,14,BGR,12219.539324109,20207.13199466681,1.653673797243599,Bulgaria,BG,59,BGN,BGN,"BGN (BGN, Bulgarian Lev)",Bulgarian Lev,Bulgaria,Europe & Central Asia,High income,IBRD,България
+15,15,BHR,26126.2399775301,9823.46623155131,0.3759999999999998,Bahrain,BH,60,BHD,BD,"BD (BHD, Bahraini Dinar)",Bahraini Dinar,Bahrain,Middle East & North Africa,High income,,البحرين
+16,16,BIH,6855.30119876117,11336.605854039946,1.6536991629322717,Bosnia and Herzegovina,BA,57,BAM,KM,"KM (BAM, Bosnia-Herzegovina Convertible Mark)",Bosnia-Herzegovina Convertible Mark,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,IBRD,Bosna i Hercegovina
+17,17,BLR,7490.23726629384,19013.9673004869,2.538499999999998,Belarus,BY,66,BYN,Br,"Br (BYN, Belarusian Ruble)",Belarusian Ruble,Belarus,Europe & Central Asia,Upper middle income,IBRD,Беларусь
+18,18,BLZ,6122.190124655,12121.93644681692,1.980000000000003,Belize,BZ,67,BZD,BZ$,"BZ$ (BZD, Belize Dollar)",Belize Dollar,Belize,Latin America & Caribbean,Upper middle income,Blend,Belize
+19,19,BOL,3326.96011049488,23114.055367663208,6.947500000000009,Bolivia,BO,63,BOB,Bs,"Bs (BOB, Bolivian Boliviano)",Bolivian Boliviano,Bolivia,Latin America & Caribbean,Lower middle income,IBRD,Bolivia
+20,20,BRA,7620.86496494632,41186.01209493169,5.40437499999999,Brazil,BR,64,BRL,R$,"R$ (BRL, Brazilian Real)",Brazilian Real,Brazil,Latin America & Caribbean,Upper middle income,IBRD,Brasil
+21,21,BRN,31786.1990419941,42707.93703282334,1.343600000000002,Brunei Darussalam,BN,62,BND,BN$,"BN$ (BND, Brunei Dollar)",Brunei Dollar,Brunei Darussalam,East Asia & Pacific,High income,,بروني دارالسلام
+22,22,BTN,3660.72405741696,270673.93680541,73.94,Bhutan,BT,102,INR,Rs,"Rs (INR, Indian Rupee)",Indian Rupee,Bhutan,South Asia,Lower middle income,IDA,འབྲུག་ཡུལ
+23,23,BWA,7238.79609591089,80258.40233768843,11.08725833333328,Botswana,BW,65,BWP,BWP,"BWP (BWP, Botswanan Pula)",Botswanan Pula,Botswana,Sub-Saharan Africa,Upper middle income,IBRD,Botswana
+24,24,CAF,473.054236421835,262323.0850502701,554.5306750331047,Central African Republic,CF,178,XAF,FCFA,"FCFA (XAF, CFA Franc BEAC)",CFA Franc BEAC,Central African Republic,Sub-Saharan Africa,Low income,IDA,République centrafricaine
+25,25,CAN,52496.8400716064,65824.58033846562,1.253877,Canada,CA,13,CAD,CA$,"CA$ (CAD, Canadian Dollar)",Canadian Dollar,Canada,North America,High income,,Canada
+26,26,CHE,93420.9292517107,85395.59196247943,0.9140948676756574,Switzerland,CH,70,CHF,CHF,"CHF (CHF, Swiss Franc)",Swiss Franc,Switzerland,Europe & Central Asia,High income,,Schweiz
+27,27,CHL,16094.5083314958,12215013.670549035,758.955378999999,Chile,CL,71,CLP,CL$,"CL$ (CLP, Chilean Peso)",Chilean Peso,Chile,Latin America & Caribbean,High income,IBRD,Chile
+28,28,CHN,12612.5670763769,81369.9764932457,6.451500000000011,China,CN,72,CNY,CN¥,"CN¥ (CNY, Chinese Yuan)",Chinese Yuan,China,East Asia & Pacific,Upper middle income,IBRD,中国
+29,29,CIV,2571.96316878234,1426232.4721451516,554.5306750331038,Cote d'Ivoire,CI,186,XOF,CFA,"CFA (XOF, CFA Franc BCEAO)",CFA Franc BCEAO,Côte d’Ivoire,Sub-Saharan Africa,Lower middle income,IDA,Côte d'Ivoire
+30,30,CMR,1666.9328421028,924365.3941661158,554.5306750331038,Cameroon,CM,177,XAF,FCFA,"FCFA (XAF, CFA Franc BEAC)",CFA Franc BEAC,Cameroon,Sub-Saharan Africa,Lower middle income,Blend,Cameroun
+31,31,COD,649.179149481506,1291471.4632777364,1989.39147122828,"Congo, Dem. Rep.",CD,68,CDF,CDF,"CDF (CDF, Congolese Franc)",Congolese Franc,"Congo, Dem. Rep.",Sub-Saharan Africa,Low income,IDA,République démocratique du Congo
+32,32,COG,2525.3945087527,1400408.7216635246,554.5306750331024,"Congo, Rep.",CG,180,XAF,FCFA,"FCFA (XAF, CFA Franc BEAC)",CFA Franc BEAC,"Congo, Rep.",Sub-Saharan Africa,Lower middle income,Blend,République du Congo
+33,33,COL,6377.71430043245,23879719.56818667,3744.2441669999976,Colombia,CO,73,COP,CO$,"CO$ (COP, Colombian Peso)",Colombian Peso,Colombia,Latin America & Caribbean,Upper middle income,IBRD,Colombia
+34,34,COM,1633.65952057494,679530.2330996537,415.95584914811633,Comoros,KM,113,KMF,CF,"CF (KMF, Comorian Franc)",Comorian Franc,Comoros,Sub-Saharan Africa,Lower middle income,IDA,جزر القمر
+35,35,CPV,3002.34334512004,279872.7193967852,93.218092411611,Cabo Verde,CV,75,CVE,CV$,"CV$ (CVE, Cape Verdean Escudo)",Cape Verdean Escudo,Cabo Verde,Sub-Saharan Africa,Lower middle income,Blend,Cabo Verde
+36,36,CRI,12586.7266685259,7813647.590637382,620.7847199999999,Costa Rica,CR,74,CRC,₡,"₡ (CRC, Costa Rican Colón)",Costa Rican Colón,Costa Rica,Latin America & Caribbean,Upper middle income,IBRD,Costa Rica
+37,37,CZE,26340.9843546799,571051.694304551,21.67920859051323,Czechia,CZ,76,CZK,Kč,"Kč (CZK, Czech Republic Koruna)",Czech Republic Koruna,Czechia,Europe & Central Asia,High income,,Česko
+38,38,DEU,51425.0458556553,43481.05678164813,0.8455229559482532,Germany,DE,22,EUR,€,"€ (EUR, Euro)",Euro,Germany,Europe & Central Asia,High income,,Deutschland
+39,39,DJI,3100.59977215035,551041.6921063326,177.7210000000001,Djibouti,DJ,77,DJF,Fdj,"Fdj (DJF, Djiboutian Franc)",Djiboutian Franc,Djibouti,Middle East & North Africa,Lower middle income,IDA,Djibouti
+40,40,DNK,69289.5183291492,435703.1773179027,6.288154223387176,Denmark,DK,78,DKK,Dkr,"Dkr (DKK, Danish Krone)",Danish Krone,Denmark,Europe & Central Asia,High income,,Danmark
+41,41,DOM,8475.02460209783,485047.90491763945,57.23262500000001,Dominican Republic,DO,81,DOP,RD$,"RD$ (DOP, Dominican Peso)",Dominican Peso,Dominican Republic,Latin America & Caribbean,Upper middle income,IBRD,República Dominicana
+42,42,DZA,3700.32055505385,499780.311299824,135.0640583333329,Algeria,DZ,82,DZD,DA,"DA (DZD, Algerian Dinar)",Algerian Dinar,Algeria,Middle East & North Africa,Upper middle income,IBRD,الجزائر
+43,43,EGY,4227.61765630422,66139.07974378529,15.6445272777113,"Egypt, Arab Rep.",EG,83,EGP,EGP,"EGP (EGP, Egyptian Pound)",Egyptian Pound,"Egypt, Arab Rep.",Middle East & North Africa,Lower middle income,IBRD,مصر
+44,44,ERI,610.984356398085,9210.589172701111,15.074999999999967,Eritrea,ER,84,ETB,Br,"Br (ETB, Ethiopian Birr)",Ethiopian Birr,Eritrea,Sub-Saharan Africa,Low income,IDA,ኤርትራ
+45,45,ESP,30542.0461196681,25824.001115809588,0.8455229559482512,Spain,ES,37,EUR,€,"€ (EUR, Euro)",Euro,Spain,Europe & Central Asia,High income,,España
+46,46,ETH,898.568150462002,43641.08032930843,48.56735719696967,Ethiopia,ET,85,ETB,Br,"Br (ETB, Ethiopian Birr)",Ethiopian Birr,Ethiopia,Sub-Saharan Africa,Low income,IDA,ኢትዮጵያ
+47,47,FIN,53553.4840963827,45280.70017450127,0.8455229559482532,Finland,FI,18,EUR,€,"€ (EUR, Euro)",Euro,Finland,Europe & Central Asia,High income,,Suomi
+48,48,FRA,43367.9430010567,36668.59135964881,0.8455229559482529,France,FR,19,EUR,€,"€ (EUR, Euro)",Euro,France,Europe & Central Asia,High income,,France
+49,49,FRO,69108.2065823035,434491.1040102856,6.287112999999997,Faroe Islands,FO,79,DKK,Dkr,"Dkr (DKK, Danish Krone)",Danish Krone,Faroe Islands,Europe & Central Asia,High income,,Føroyar
+50,50,GAB,8633.17143330226,4787358.3825856,554.5306750331026,Gabon,GA,182,XAF,FCFA,"FCFA (XAF, CFA Franc BEAC)",CFA Franc BEAC,Gabon,Sub-Saharan Africa,Upper middle income,IBRD,Gabon
+51,51,GBR,46869.9596817313,34077.507235998,0.7270650000000006,United Kingdom,GB,87,GBP,£,"£ (GBP, British Pound Sterling)",British Pound Sterling,United Kingdom,Europe & Central Asia,High income,,United Kingdom
+52,52,GEO,5015.58308980071,16179.464449317384,3.225839181533779,Georgia,GE,91,GEL,GEL,"GEL (GEL, Georgian Lari)",Georgian Lari,Georgia,Europe & Central Asia,Upper middle income,IBRD,საქართველო
+53,53,GHA,2468.76047513332,14332.88269048152,5.805700000000002,Ghana,GH,92,GHS,GH₵,"GH₵ (GHS, Ghanaian Cedi)",Ghanaian Cedi,Ghana,Sub-Saharan Africa,Lower middle income,IDA,Ghana
+54,54,GIN,1174.76755392527,11429047.763116283,9728.773768843224,Guinea,GN,93,GNF,FG,"FG (GNF, Guinean Franc)",Guinean Franc,Guinea,Sub-Saharan Africa,Lower middle income,IDA,Guinée
+55,55,GNB,872.490144361143,483822.5487123145,554.5306750331034,Guinea-Bissau,GW,185,XOF,CFA,"CFA (XOF, CFA Franc BCEAO)",CFA Franc BCEAO,Guinea-Bissau,Sub-Saharan Africa,Low income,IDA,Guiné-Bissau
+56,56,GNQ,7506.67448091203,4162681.267153908,554.5306750331019,Equatorial Guinea,GQ,181,XAF,FCFA,"FCFA (XAF, CFA Franc BEAC)",CFA Franc BEAC,Equatorial Guinea,Sub-Saharan Africa,Upper middle income,IBRD,Guinea Ecuatorial
+57,57,GRC,20174.0838083658,17057.650975197255,0.8455229559482537,Greece,GR,23,EUR,€,"€ (EUR, Euro)",Euro,Greece,Europe & Central Asia,High income,,Ελλάδα
+58,58,GRL,57116.295770722,359096.60565195174,6.287113000000008,Greenland,GL,80,DKK,Dkr,"Dkr (DKK, Danish Krone)",Danish Krone,Greenland,Europe & Central Asia,High income,,Kalaallit Nunaat
+59,59,GTM,4877.73371177005,37798.10524353372,7.749112082999997,Guatemala,GT,94,GTQ,GTQ,"GTQ (GTQ, Guatemalan Quetzal)",Guatemalan Quetzal,Guatemala,Latin America & Caribbean,Upper middle income,IBRD,Guatemala
+60,60,HKG,49759.6718943617,386831.6893067674,7.773999999999991,"Hong Kong SAR, China",HK,95,HKD,HK$,"HK$ (HKD, Hong Kong Dollar)",Hong Kong Dollar,"Hong Kong SAR, China",East Asia & Pacific,High income,,香港
+61,61,HND,2762.90255264347,66567.79463488937,24.09342832999996,Honduras,HN,96,HNL,HNL,"HNL (HNL, Honduran Lempira)",Honduran Lempira,Honduras,Latin America & Caribbean,Lower middle income,IDA,Honduras
+62,62,HRV,17454.2173424272,14757.941441132312,0.8455229559482533,Croatia,HR,97,HRK,kn,"kn (HRK, Croatian Kuna)",Croatian Kuna,Croatia,Europe & Central Asia,High income,IBRD,Hrvatska
+63,63,HUN,18753.2928140046,5684814.8640204,303.1368901665679,Hungary,HU,98,HUF,Ft,"Ft (HUF, Hungarian Forint)",Hungarian Forint,Hungary,Europe & Central Asia,High income,,Magyarország
+64,64,IDN,4351.24986411302,62258309.2057612,14308.143901189696,Indonesia,ID,100,IDR,Rp,"Rp (IDR, Indonesian Rupiah)",Indonesian Rupiah,Indonesia,East Asia & Pacific,Upper middle income,IBRD,Indonesia
+65,65,IND,2248.62342689258,166213.74646904593,73.91800000000009,India,IN,103,INR,Rs,"Rs (INR, Indian Rupee)",Indian Rupee,India,South Asia,Lower middle income,IBRD,भारत
+66,66,IRL,102293.724077506,86491.69195696799,0.8455229559482543,Ireland,IE,25,EUR,€,"€ (EUR, Euro)",Euro,Ireland,Europe & Central Asia,High income,,Éire
+67,67,IRN,4084.20030479458,759461969.5985571,185951.2053576313,"Iran, Islamic Rep.",IR,105,IRR,IRR,"IRR (IRR, Iranian Rial)",Iranian Rial,"Iran, Islamic Rep.",Middle East & North Africa,Upper middle income,IBRD,ایران
+68,68,IRQ,4681.7505614626,6886855.075911479,1470.9999999999989,Iraq,IQ,104,IQD,IQD,"IQD (IQD, Iraqi Dinar)",Iraqi Dinar,Iraq,Middle East & North Africa,Upper middle income,IBRD,العراق
+69,69,ISL,68732.111447549,8725903.892660404,126.95527183563006,Iceland,IS,106,ISK,Ikr,"Ikr (ISK, Icelandic Króna)",Icelandic Króna,Iceland,Europe & Central Asia,High income,,Ísland
+70,70,ISR,52278.3970762128,168869.57367878853,3.230198000000002,Israel,IL,101,ILS,₪,"₪ (ILS, Israeli New Sheqel)",Israeli New Sheqel,Israel,Middle East & North Africa,High income,,ישראל
+71,71,ITA,36448.0014349488,30817.62191168405,0.8455229559482523,Italy,IT,26,EUR,€,"€ (EUR, Euro)",Euro,Italy,Europe & Central Asia,High income,,Italia
+72,72,JAM,5091.0690215876,781632.7432767706,153.53018000000048,Jamaica,JM,107,JMD,J$,"J$ (JMD, Jamaican Dollar)",Jamaican Dollar,Jamaica,Latin America & Caribbean,Upper middle income,IBRD,Jamaica
+73,73,JOR,4139.1158055543,2930.493990332442,0.7079999999999994,Jordan,JO,108,JOD,JD,"JD (JOD, Jordanian Dinar)",Jordanian Dinar,Jordan,Middle East & North Africa,Lower middle income,IBRD,الأردن
+74,74,JPN,39884.1119531385,4377453.745757038,109.75432400000004,Japan,JP,110,JPY,¥,"¥ (JPY, Japanese Yen)",Japanese Yen,Japan,East Asia & Pacific,High income,,日本
+75,75,KAZ,10369.9347713391,4417903.310633606,426.03000000000094,Kazakhstan,KZ,116,KZT,KZT,"KZT (KZT, Kazakhstani Tenge)",Kazakhstani Tenge,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD,Қазақстан
+76,76,KEN,2069.66115571716,226912.98532258443,109.63774659236748,Kenya,KE,111,KES,Ksh,"Ksh (KES, Kenyan Shilling)",Kenyan Shilling,Kenya,Sub-Saharan Africa,Lower middle income,Blend,Kenya
+77,77,KHM,1624.93469943951,6660156.893074863,4098.722795058876,Cambodia,KH,112,KHR,KHR,"KHR (KHR, Cambodian Riel)",Cambodian Riel,Cambodia,East Asia & Pacific,Lower middle income,IDA,កម្ពុជា
+78,78,KOR,35142.1804843463,40200955.9470828,1143.9516669999994,"Korea, Rep.",KR,114,KRW,₩,"₩ (KRW, South Korean Won)",South Korean Won,"Korea, Rep.",East Asia & Pacific,High income,,대한민국
+79,79,KWT,32658.9671876952,9863.008090683925,0.3019999999999992,Kuwait,KW,115,KWD,KD,"KD (KWD, Kuwaiti Dinar)",Kuwaiti Dinar,Kuwait,Middle East & North Africa,High income,,الكويت
+80,80,LBN,3075.95349278928,34450679.11923996,11200.000000000004,Lebanon,LB,117,LBP,L.L.,"L.L. (LBP, Lebanese Pound)",Lebanese Pound,Lebanon,Middle East & North Africa,Lower middle income,IBRD,لبنان
+81,81,LBY,5908.9513231651,26675.517577079587,4.514424999999997,Libya,LY,121,LYD,LD,"LD (LYD, Libyan Dinar)",Libyan Dinar,Libya,Middle East & North Africa,Upper middle income,IBRD,ليبيا
+82,82,LKA,3994.24680375131,794375.8043300607,198.88000000000005,Sri Lanka,LK,118,LKR,SLRs,"SLRs (LKR, Sri Lankan Rupee)",Sri Lankan Rupee,Sri Lanka,South Asia,Lower middle income,IDA,ශ්‍රී ලංකාව
+83,83,LTU,23784.7195188562,20110.52635398343,0.8455229559482541,Lithuania,LT,119,LTL,Lt,"Lt (LTL, Lithuanian Litas)",Lithuanian Litas,Lithuania,Europe & Central Asia,High income,,Lietuva
+84,84,LUX,133708.146794201,113053.30751179584,0.8455229559482538,Luxembourg,LU,27,EUR,€,"€ (EUR, Euro)",Euro,Luxembourg,Europe & Central Asia,High income,,Lëtzebuerg
+85,85,LVA,20946.1778223072,17710.474188134944,0.845522955948254,Latvia,LV,120,LVL,Ls,"Ls (LVL, Latvian Lats)",Latvian Lats,Latvia,Europe & Central Asia,High income,,Latvija
+86,86,MAC,45104.8921800265,361088.6577037514,8.005531999999988,"Macao SAR, China",MO,128,MOP,MOP$,"MOP$ (MOP, Macanese Pataca)",Macanese Pataca,"Macao SAR, China",East Asia & Pacific,High income,,澳門
+87,87,MAC,45104.8921800265,361088.6577037514,8.005531999999988,"Macao SAR, China",MO,129,MOP,MOP$,"MOP$ (MOP, Macanese Pataca)",Macanese Pataca,"Macao SAR, China",East Asia & Pacific,High income,,澳門
+88,88,MAR,3905.40816013913,35103.69885516184,8.988484024141352,Morocco,MA,122,MAD,MAD,"MAD (MAD, Moroccan Dirham)",Moroccan Dirham,Morocco,Middle East & North Africa,Lower middle income,IBRD,المغرب
+89,89,MDA,5234.6157259838,92556.45456176132,17.681613972602765,Moldova,MD,124,MDL,MDL,"MDL (MDL, Moldovan Leu)",Moldovan Leu,Moldova,Europe & Central Asia,Upper middle income,IBRD,Moldova
+90,90,MDG,503.352081144787,1927827.3211985703,3829.977849329761,Madagascar,MG,125,MGA,MGA,"MGA (MGA, Malagasy Ariary)",Malagasy Ariary,Madagascar,Sub-Saharan Africa,Low income,IDA,Madagasikara
+91,91,MEX,10289.2884989192,208588.65447979711,20.272407999999952,Mexico,MX,131,MXN,MX$,"MX$ (MXN, Mexican Peso)",Mexican Peso,Mexico,Latin America & Caribbean,Upper middle income,IBRD,México
+92,92,MKD,7167.02456923293,373506.99784327525,52.11465291282667,North Macedonia,MK,126,MKD,MKD,"MKD (MKD, Macedonian Denar)",Macedonian Denar,North Macedonia,Europe & Central Asia,Upper middle income,IBRD,Северна Македонија
+93,93,MLI,1048.7093289021,581541.4920695946,554.5306750331036,Mali,ML,187,XOF,CFA,"CFA (XOF, CFA Franc BCEAO)",CFA Franc BCEAO,Mali,Sub-Saharan Africa,Low income,IDA,Mali
+94,94,MMR,1231.69466580785,2109372.3858269826,1712.5773492276005,Myanmar,MM,127,MMK,MMK,"MMK (MMK, Myanma Kyat)",Myanma Kyat,Myanmar,East Asia & Pacific,Lower middle income,IDA,မြန်မာ
+95,95,MNE,9464.31228535094,8002.293299527308,0.8455229559482547,Montenegro,ME,40,EUR,€,"€ (EUR, Euro)",Euro,Montenegro,Europe & Central Asia,Upper middle income,IBRD,Црна Гора
+96,96,MOZ,504.037794310956,32996.83420456679,65.46500000000012,Mozambique,MZ,133,MZN,MTn,"MTn (MZN, Mozambican Metical)",Mozambican Metical,Mozambique,Sub-Saharan Africa,Low income,IDA,Moçambique
+97,97,MUS,8872.96657581119,369932.9055409296,41.69213333333327,Mauritius,MU,130,MUR,MURs,"MURs (MUR, Mauritian Rupee)",Mauritian Rupee,Mauritius,Sub-Saharan Africa,Upper middle income,IBRD,Maurice
+98,98,MYS,11475.5952773004,47546.77804058825,4.143295131245993,Malaysia,MY,132,MYR,RM,"RM (MYR, Malaysian Ringgit)",Malaysian Ringgit,Malaysia,East Asia & Pacific,Upper middle income,IBRD,Malaysia
+99,99,NER,590.629497225029,327522.17379065894,554.5306750331054,Niger,NE,188,XOF,CFA,"CFA (XOF, CFA Franc BCEAO)",CFA Franc BCEAO,Niger,Sub-Saharan Africa,Low income,IDA,Niger
+100,100,NGA,2056.80364830051,825090.9572244509,401.15202922077896,Nigeria,NG,135,NGN,₦,"₦ (NGN, Nigerian Naira)",Nigerian Naira,Nigeria,Sub-Saharan Africa,Lower middle income,Blend,Nigeria
+101,101,NIC,2061.13836545115,72625.90631437548,35.23582285000009,Nicaragua,NI,136,NIO,C$,"C$ (NIO, Nicaraguan Córdoba)",Nicaraguan Córdoba,Nicaragua,Latin America & Caribbean,Lower middle income,IDA,Nicaragua
+102,102,NLD,58726.0163647781,49654.19494781291,0.8455229559482573,Netherlands,NL,31,EUR,€,"€ (EUR, Euro)",Euro,Netherlands,Europe & Central Asia,High income,,Nederland
+103,103,NOR,90625.9032242242,778775.8875782181,8.593303458188897,Norway,NO,138,NOK,Nkr,"Nkr (NOK, Norwegian Krone)",Norwegian Krone,Norway,Europe & Central Asia,High income,,Norge
+104,104,NPL,1323.39998185204,156338.64145209437,118.13408160494708,Nepal,NP,140,NPR,NPRs,"NPRs (NPR, Nepalese Rupee)",Nepalese Rupee,Nepal,South Asia,Lower middle income,IDA,नेपाल
+105,105,NZL,48833.506816072,69040.81193656266,1.4138000000000015,New Zealand,NZ,141,NZD,NZ$,"NZ$ (NZD, New Zealand Dollar)",New Zealand Dollar,New Zealand,East Asia & Pacific,High income,,Aotearoa
+106,106,OMN,19454.1244501274,7489.837913299052,0.3850000000000001,Oman,OM,146,OMR,OMR,"OMR (OMR, Omani Rial)",Omani Rial,Oman,Middle East & North Africa,High income,,عُمان
+107,107,PAK,1675.00178637636,272397.5547524143,162.62523238360814,Pakistan,PK,150,PKR,PKRs,"PKRs (PKR, Pakistani Rupee)",Pakistani Rupee,Pakistan,South Asia,Lower middle income,Blend,پاکستان
+108,108,PAN,15491.1722933376,15491.1722933376,1.0,Panama,PA,147,PAB,B/.,"B/. (PAB, Panamanian Balboa)",Panamanian Balboa,Panama,Latin America & Caribbean,High income,IBRD,Panamá
+109,109,PER,6635.97829876663,25749.254793789245,3.880250000000004,Peru,PE,148,PEN,S/.,"S/. (PEN, Peruvian Nuevo Sol)",Peruvian Nuevo Sol,Peru,Latin America & Caribbean,Upper middle income,IBRD,Perú
+110,110,PHL,3576.1540428372,176142.0287963153,49.25459772884117,Philippines,PH,149,PHP,₱,"₱ (PHP, Philippine Peso)",Philippine Peso,Philippines,East Asia & Pacific,Lower middle income,IBRD,Pilipinas
+111,111,POL,17862.9982978276,68950.84115096187,3.859981398494972,Poland,PL,151,PLN,zł,"zł (PLN, Polish Zloty)",Polish Zloty,Poland,Europe & Central Asia,High income,IBRD,Polska
+112,112,PRI,32601.5656391821,32601.5656391821,1.0,Puerto Rico,PR,6,USD,$,"$ (USD, US Dollar)",US Dollar,Puerto Rico,Latin America & Caribbean,High income,,Puerto Rico
+113,113,PRT,24821.3742790403,20987.04175111208,0.8455229559482524,Portugal,PT,32,EUR,€,"€ (EUR, Euro)",Euro,Portugal,Europe & Central Asia,High income,,Portugal
+114,114,PRY,6033.19509586718,40370222.291311786,6691.350378999999,Paraguay,PY,152,PYG,₲,"₲ (PYG, Paraguayan Guarani)",Paraguayan Guarani,Paraguay,Latin America & Caribbean,Upper middle income,IBRD,Paraguay
+115,115,PSE,3464.33724184988,11196.54030375385,3.231942943803919,West Bank and Gaza,PS,109,JOD,JD,"JD (JOD, Jordanian Dinar)",Jordanian Dinar,West Bank and Gaza,Middle East & North Africa,Lower middle income,,فلسطين
+116,116,QAT,65221.6256138874,238058.93349068903,3.650000000000001,Qatar,QA,153,QAR,QR,"QR (QAR, Qatari Rial)",Qatari Rial,Qatar,Middle East & North Africa,High income,,قطر
+117,117,ROU,14940.3508957073,62170.404103511806,4.161241227699328,Romania,RO,154,RON,RON,"RON (RON, Romanian Leu)",Romanian Leu,Romania,Europe & Central Asia,High income,IBRD,România
+118,118,RUS,12522.9847634615,922263.9789944584,73.64570000000015,Russian Federation,RU,156,RUB,RUB,"RUB (RUB, Russian Ruble)",Russian Ruble,Russian Federation,Europe & Central Asia,High income,IBRD,Россия
+119,119,RWA,821.203698921295,811862.3479856611,988.6248065517674,Rwanda,RW,157,RWF,RWF,"RWF (RWF, Rwandan Franc)",Rwandan Franc,Rwanda,Sub-Saharan Africa,Low income,IDA,Rwanda
+120,120,SAU,25626.9444790043,96101.04179626616,3.750000000000001,Saudi Arabia,SA,158,SAR,SR,"SR (SAR, Saudi Riyal)",Saudi Riyal,Saudi Arabia,Middle East & North Africa,High income,,المملكة العربية السعودية
+121,121,SDN,1104.78996589279,409645.7159142005,370.7905833333329,Sudan,SD,159,SDG,SDG,"SDG (SDG, Sudanese Pound)",Sudanese Pound,Sudan,Sub-Saharan Africa,Low income,IDA,السودان
+122,122,SEN,1633.56011880605,905859.1953886756,554.5306750331034,Senegal,SN,189,XOF,CFA,"CFA (XOF, CFA Franc BCEAO)",CFA Franc BCEAO,Senegal,Sub-Saharan Africa,Lower middle income,IDA,Sénégal
+123,123,SGP,79570.7924782392,106943.14509075346,1.344,Singapore,SG,161,SGD,S$,"S$ (SGD, Singapore Dollar)",Singapore Dollar,Singapore,East Asia & Pacific,High income,,Singapore
+124,124,SMR,54982.451714817,46487.66292487775,0.8454999999999996,San Marino,SM,35,EUR,€,"€ (EUR, Euro)",Euro,San Marino,Europe & Central Asia,High income,,San Marino
+125,125,SOM,446.997825401831,446.997825401831,1.0,Somalia,SO,162,SOS,Ssh,"Ssh (SOS, Somali Shilling)",Somali Shilling,Somalia,Sub-Saharan Africa,Low income,IDA,Soomaaliya
+126,126,SRB,9231.56080848057,917717.9913788186,99.41092415659088,Serbia,RS,155,RSD,din.,"din. (RSD, Serbian Dinar)",Serbian Dinar,Serbia,Europe & Central Asia,Upper middle income,IBRD,Србија
+127,127,SVN,29334.9417446964,24803.366656545542,0.8455229559482543,Slovenia,SI,36,EUR,€,"€ (EUR, Euro)",Euro,Slovenia,Europe & Central Asia,High income,,Slovenija
+128,128,SWE,61399.5605209065,526752.8881587704,8.579098672528957,Sweden,SE,160,SEK,Skr,"Skr (SEK, Swedish Krona)",Swedish Krona,Sweden,Europe & Central Asia,High income,,Sverige
+129,129,SYR,448.188367595331,963978.4806362872,2150.833333333325,Syrian Arab Republic,SY,163,SYP,SY£,"SY£ (SYP, Syrian Pound)",Syrian Pound,Syrian Arab Republic,Middle East & North Africa,Low income,IDA,سوريا
+130,130,TCA,20908.5827016004,20908.5827016004,1.0,Turks and Caicos Islands,TC,7,USD,$,"$ (USD, US Dollar)",US Dollar,Turks and Caicos Islands,Latin America & Caribbean,High income,,Turks and Caicos Islands
+131,131,TCD,896.117724333833,496924.7665839701,554.5306750331047,Chad,TD,179,XAF,FCFA,"FCFA (XAF, CFA Franc BEAC)",CFA Franc BEAC,Chad,Sub-Saharan Africa,Low income,IDA,Tchad
+132,132,TGO,972.317529294271,539179.8958660717,554.5306750331036,Togo,TG,190,XOF,CFA,"CFA (XOF, CFA Franc BCEAO)",CFA Franc BCEAO,Togo,Sub-Saharan Africa,Low income,IDA,Togo
+133,133,THA,7263.81955188307,232302.03394290703,31.980700000000024,Thailand,TH,164,THB,฿,"฿ (THB, Thai Baht)",Thai Baht,Thailand,East Asia & Pacific,Upper middle income,IBRD,ประเทศไทย
+134,134,TTO,16055.0190666774,108516.51737289185,6.7590400810000055,Trinidad and Tobago,TT,168,TTD,TT$,"TT$ (TTD, Trinidad and Tobago Dollar)",Trinidad and Tobago Dollar,Trinidad and Tobago,Latin America & Caribbean,High income,IBRD,Trinidad and Tobago
+135,135,TUN,3817.37666953056,10667.531857114189,2.7944666666666724,Tunisia,TN,165,TND,DT,"DT (TND, Tunisian Dinar)",Tunisian Dinar,Tunisia,Middle East & North Africa,Lower middle income,IBRD,تونس
+136,136,TUR,9701.52120434334,86231.73375204107,8.88847552211043,Turkiye,TR,167,TRY,TL,"TL (TRY, Turkish Lira)",Turkish Lira,Türkiye,Europe & Central Asia,Upper middle income,IBRD,Türkiye
+137,137,TWN,32941.1141422401,923085.7828280942,28.022299999999984,"Taiwan, China",TW,169,TWD,NT$,"NT$ (TWD, New Taiwan Dollar)",New Taiwan Dollar,"Taiwan, China",East Asia & Pacific,High income,,臺灣
+138,138,TZA,1053.13143608586,2419847.7393646566,2297.764226237921,Tanzania,TZ,170,TZS,TSh,"TSh (TZS, Tanzanian Shilling)",Tanzanian Shilling,Tanzania,Sub-Saharan Africa,Lower middle income,IDA,Tanzania
+139,139,UGA,933.791356822554,3349557.880788817,3587.051707339079,Uganda,UG,172,UGX,USh,"USh (UGX, Ugandan Shilling)",Ugandan Shilling,Uganda,Sub-Saharan Africa,Low income,IDA,Uganda
+140,140,UKR,4559.92867068897,124383.57287209282,27.27752599983092,Ukraine,UA,171,UAH,₴,"₴ (UAH, Ukrainian Hryvnia)",Ukrainian Hryvnia,Ukraine,Europe & Central Asia,Upper middle income,IBRD,Україна
+141,141,URY,19044.4162521953,780638.2399439857,40.99039999999997,Uruguay,UY,173,UYU,$U,"$U (UYU, Uruguayan Peso)",Uruguayan Peso,Uruguay,Latin America & Caribbean,High income,IBRD,Uruguay
+142,142,USA,70987.8868840769,70987.8868840769,1.0,United States,US,8,USD,$,"$ (USD, US Dollar)",US Dollar,United States,North America,High income,,United States
+143,143,UZB,1993.32760426195,21149166.01466721,10609.980000000003,Uzbekistan,UZ,174,UZS,UZS,"UZS (UZS, Uzbekistan Som)",Uzbekistan Som,Uzbekistan,Europe & Central Asia,Lower middle income,Blend,Oʻzbekiston
+144,144,VIR,41976.0083120808,41976.0083120808,1.0,Virgin Islands (U.S.),VI,11,USD,$,"$ (USD, US Dollar)",US Dollar,Virgin Islands (U.S.),Latin America & Caribbean,High income,,Virgin Islands (U.S.)
+145,145,VNM,3716.88210055036,86082572.4945831,23159.88782152569,Viet Nam,VN,176,VND,₫,"₫ (VND, Vietnamese Dong)",Vietnamese Dong,Vietnam,East Asia & Pacific,Lower middle income,IBRD,Việt Nam
+146,146,ZAF,7098.62796397152,104908.33843984584,14.77867821391671,South Africa,ZA,192,ZAR,R,"R (ZAR, South African Rand)",South African Rand,South Africa,Sub-Saharan Africa,Upper middle income,IBRD,South Africa
+147,147,ZMB,1134.71347771855,22715.246532626777,20.01848658596878,Zambia,ZM,193,ZMK,ZK,"ZK (ZMK, Zambian Kwacha)",Zambian Kwacha,Zambia,Sub-Saharan Africa,Lower middle income,IDA,Zambia
