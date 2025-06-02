@@ -8,20 +8,21 @@ Our findings show that LLMs default to the measurement system predominantly used
 
 ### Directory Structure
 
+```
 .
 ├── data
 │   ├── raw_data       # Contains raw numerical data (weights, prices, distances)
 │   └── prompts        # Contains prompt templates for evaluation
 ├── scripts
 │   └── inference.py   # Main script to run model inference
-
+```
 
 ### Running Inference
 
 To run inference with your preferred LLM (e.g., LLaMA 3.3 70B), execute:
 
 ```bash
-python scripts/inference.py --model_name meta-llama/Llama-3.3-70B-Instruct --gt_file path/to/your_prompt_file.json
+python scripts/inference.py --model_name meta-llama/Llama-3.3-70B-Instruct --gt_file data/prompts/your_prompt_file.csv
 ```
 
 ### Arguments
