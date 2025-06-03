@@ -16,7 +16,7 @@ def extract_prompts(df_gt):
             [messages, metadata])
     return all_prompts
 
-def set_prompts(countries, currencies, language, gt_file, mode, pred_average):
+def set_prompts(language, gt_file, mode, pred_average):
     if "sanity" in mode:
         language = language + "_sanity"    
 

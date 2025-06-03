@@ -5,8 +5,6 @@ import argparse
 from prompts import set_prompts
 from tqdm import tqdm
 import os
-from transformers import AutoTokenizer, AutoModelForCausalLM, LogitsProcessorList
-from tqdm import tqdm
 
 DEVICE = "cuda"
 
@@ -25,9 +23,9 @@ def load_model(model_name, gt_file):
     return model, tokenizer
 
 
-def tokenize_data(gt_file, tokenizer, countries, currencies, language, mode, pred_average):
+def tokenize_data(gt_file, tokenizer, language, mode, pred_average):
 
-    all_prompts = set_prompts(countries, currencies, language, gt_file, mode, pred_average)
+    all_prompts = set_prompts(language, gt_file, mode, pred_average)
 
     prompts_template = []
     prompt_metadata = []
@@ -57,8 +55,7 @@ def batch_inference(input_texts, model, tokenizer, mode, prompt_metadata, output
     results = []
     max_new_tokens = 20
     if "free_generation" in mode:
-        LOGITS_PROCESSOR = None
-        max_new_tokens = 300
+        max_new_tokens = 500
 
     if "reduce_compute" in mode:
         batch_size=64
@@ -134,37 +131,14 @@ def save_data(results, mode, prompt_metadata, output_path):
     processed_data.to_pickle(pickle_output)
 
 
-def load_logit_processor(tokenizer, mode, allow_additional_tokens):
-    global LOGITS_PROCESSOR
-
-    separators = {
-        "comma_seperator": ",",
-        "no_seperator": "",
-        "period_seperator": ".",
-        "quote_seperator": "'",
-        "space_seperator": " ",
-        "indian_seperator": ","
-    }
-    if "seperator" in mode:
-        allow_additional_tokens = [separators[mode]]
-
 
 # Main workflow
-def main(output_folder, gt_file, model_name, countries, currencies, allow_additional_tokens, language, modes, prediction_values_folder):
+def main(output_folder, gt_file, model_name, language, modes, prediction_values_folder):
 
     # Step 0: Load the Model
     model, tokenizer = load_model(model_name, gt_file)
 
-    # Step 1: Load the data (not here)
-    if countries == [""]:
-        df_gt_country = pd.read_csv(gt_file)
-        if "ISO3" in df_gt_country:
-            countries = list(pd.read_csv(gt_file)["ISO3"])
-        else:
-            countries = [""]
-
     for index, mode in enumerate(modes):
-
         model_name_country = model_name.split("/")[-1]
         if mode != "":
             output_file_country = os.path.join(output_folder, language + "_" + model_name_country + "_" + mode + ".csv")
@@ -185,7 +159,7 @@ def main(output_folder, gt_file, model_name, countries, currencies, allow_additi
 
         # Step 2: Tokenize
         prompts, prompt_metadata = tokenize_data(
-            gt_file, tokenizer, countries, currencies, language, mode, pred_average)
+            gt_file, tokenizer, language, mode, pred_average)
         save_prompts(prompts, prompt_metadata, output_file_country)
 
         # Step 3: Perform inference
@@ -199,25 +173,19 @@ def main(output_folder, gt_file, model_name, countries, currencies, allow_additi
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description="Run inference on a dataset and save the results.")
-    parser.add_argument("--model_name", type=str, default="/lustre/project/ki-topml/minbui/projects/models/sync/models--CohereForAI--aya-expanse-8b/snapshots/e46040a1bebe4f32f4d2f04b0a5b3af2c523d11b",
+    parser.add_argument("--model_name", type=str, default="",
                         help="Name of the model to use for inference.")
     parser.add_argument("--language", type=str, default="en",
-                        help="Name of the model to use for inference.")
-    parser.add_argument("--countries", nargs='+', default=[""],
-                        help="List of countries to use for inference.")
-    parser.add_argument("--currencies", nargs='+', default=[],
-                        help="List of countries to use for inference.")
-    parser.add_argument("--allow_additional_tokens", nargs='+', default=[",", ".", " ", "'"],
-                        help="List of countries to use for inference.")
+                        help="Language.")
     parser.add_argument("--modes", nargs='+', default=[""],
-                        help="List of countries to use for inference.")
+                        help="Toggle between CoT.")
     parser.add_argument("--prediction_values_folder", type=str, default="",
-                        help="Name of the model to use for inference.")
+                        help="For sequential hops.")
     parser.add_argument("--output_folder", type=str,
-                        default="output_test2/gdp_capita", help="Path to the output CSV file.")
+                        default="output_test/", help="Path to the output folder.")
     parser.add_argument("--gt_file", type=str,
-                        default="data/gdp2021.csv", help="Path to the output CSV file.")
+                        default="data/gdp2021.csv", help="Path to the input GT file.")
     args = parser.parse_args()
 
     # input_folder = os.path.join(args.input_folder, args.language)
-    main(args.output_folder, args.gt_file, args.model_name, args.countries, args.currencies, args.allow_additional_tokens, args.language, args.modes, args.prediction_values_folder)
+    main(args.output_folder, args.gt_file, args.model_name, args.language, args.modes, args.prediction_values_folder)
