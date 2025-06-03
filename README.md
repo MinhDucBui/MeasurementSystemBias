@@ -17,7 +17,16 @@ Our findings show that LLMs default to the measurement system predominantly used
 │   └── inference.py   # Main script to run model inference
 ```
 
-### 🚀 Running Inference
+## 🚀 Running Inference
+
+### 1. Install Dependencies
+To get started, install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Run Inference
 
 To run inference with your preferred LLM (e.g., LLaMA 3.3 70B), execute:
 
@@ -25,12 +34,13 @@ To run inference with your preferred LLM (e.g., LLaMA 3.3 70B), execute:
 python scripts/inference.py --model_name meta-llama/Llama-3.3-70B-Instruct --gt_file data/prompts/your_prompt_file.csv
 ```
 
-You can find prompts for the default setup (Figure 2) in folder ```data/prompts```.
 
 ### ⚙️ Arguments
 
 - ```--model_name```: The Hugging Face model identifier.
 - ```--gt_file```: Path to the prompt file (located in data/prompts).
+
+You can find example prompts for the default setup (Figure 2) in folder ```data/prompts```.
 
 📌 If your prompt file requires CoT reasoning, add:
 
